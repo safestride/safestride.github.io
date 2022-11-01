@@ -1,3 +1,30 @@
 theme: jekyll-theme-minimal
 title: Safe Stride
 description: Bookmark this page to keep an eye on our project updates!
+
+
+# site settings
+street_address: 800 22nd St NW
+city: Washington
+state: DC
+zip_code: 20052
+country: United States of America
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/safestride/safestride.github.io
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
