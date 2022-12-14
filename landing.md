@@ -1,7 +1,7 @@
 ---
-title: About Us
+title: Writings
 layout: landing
-description: 'Click here to learn more about us and our goal.'
+description: 'Click here to view all of our writing assignments for the semester.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -22,49 +22,65 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://docs.google.com/document/d/1hXZ1PhJKaMEWy9YVW8ofDcEMXxXo-6OEnfgAac0eE4Q/edit?usp=sharing" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>#1</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This is the first writing assignment. We worked to create an elevator pitch for our project.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://docs.google.com/document/d/1hXZ1PhJKaMEWy9YVW8ofDcEMXxXo-6OEnfgAac0eE4Q/edit?usp=sharing" class="button">View Writing #1</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://docs.google.com/document/d/1Z3GaCVfoqDVgOD4r9svpZDQ1_c4aR1e0_WjtMTTVO1w/edit?usp=sharing" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>#2</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This is the second writing assignement. We worked to describe the technical details of our project. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://docs.google.com/document/d/1Z3GaCVfoqDVgOD4r9svpZDQ1_c4aR1e0_WjtMTTVO1w/edit?usp=sharing" class="button">View Writing #2</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="https://docs.google.com/document/d/1k4OAe663G6DjW1-O7GUH0_caDw0-iNiLTysffpz2aws/edit?usp=sharing" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>#3</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This is our third writing assignment. We combined previous assignments, and additionally included user stories and technical mockups of our project.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://docs.google.com/document/d/1k4OAe663G6DjW1-O7GUH0_caDw0-iNiLTysffpz2aws/edit?usp=sharing" class="button">View Writing #3</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="https://docs.google.com/document/d/1Ztgss0Eu8udwcbOlt7Ct2rp_j54H75A0XqHyf01gsBQ/edit?usp=sharing" class="image">
+			<img src="{% link assets/images/pic02.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>#4</h3>
+				</header>
+				<p>In writing #4, we worked to add to writing #3. We updated our mockups, and additionally included a section describing the use cases of our project.</p>
+				<ul class="actions">
+					<li><a href="https://docs.google.com/document/d/1Ztgss0Eu8udwcbOlt7Ct2rp_j54H75A0XqHyf01gsBQ/edit?usp=sharing" class="button">View Writing #4</a></li>
 				</ul>
 			</div>
 		</div>
