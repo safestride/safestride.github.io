@@ -1,7 +1,7 @@
 ---
 title: Writings
 layout: landing
-description: 'Click here to view all of our writing assignments for the semester.'
+description: 'All of our writing assignments for the semester.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Our goal</h2>
 		</header>
-		<p>Safestride is a platform that aims to combine the routing mechanisms of BING with local DC Crime data.</p>
+		<p>Safestride is a platform that aims to combine the routing mechanisms of BING with local DC Crime data. Below are some of the writing assignments we've completed to give more details on our goal. </p>
 	</div>
 </section>
 
@@ -91,9 +91,9 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>TBD</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>More writings to come!</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
