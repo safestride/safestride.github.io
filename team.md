@@ -2,14 +2,14 @@
 layout: post
 title: Meet the Team
 description: Learn more about the people who make safe stride work!
-# image: assets/images/objectives.png
+image: assets/images/pic09.jpg
 nav-menu: true
 ---
 
 <section id="two" class="spotlights">
 	<section>
 		<!-- <a href="https://docs.google.com/document/d/1hXZ1PhJKaMEWy9YVW8ofDcEMXxXo-6OEnfgAac0eE4Q/edit?usp=sharing" class="image"> -->
-			<img src="{% link assets/images/sam.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/samSmall.jpeg %}" alt="" data-position="center center" />
 		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
@@ -27,7 +27,7 @@ nav-menu: true
 	</section>
 	<section>
 		<!-- <a href="https://docs.google.com/document/d/1Z3GaCVfoqDVgOD4r9svpZDQ1_c4aR1e0_WjtMTTVO1w/edit?usp=sharing" class="image"> -->
-			<img src="{% link assets/images/lauren.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/laurenSmall.jpeg %}" alt="" data-position="top center" />
 		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
