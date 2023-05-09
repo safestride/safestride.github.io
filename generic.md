@@ -2,7 +2,7 @@
 layout: post
 title: Promotional Videos
 description: Learn more about our platform
-image: assets/images/objectives.jpg
+image: assets/images/objectives.png
 nav-menu: true
 ---
 

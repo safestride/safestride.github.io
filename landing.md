@@ -1,7 +1,7 @@
 ---
 title: Writings and Diagrams
 layout: landing
-description: 'All of our writing assignments for the semester.'
+description: 'All of our writing assignments for the year.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

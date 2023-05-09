@@ -35,9 +35,6 @@ nav-menu: true
 				open the application, they will see these recent crimes. They will be able to customize the
 				date range for the crimes that they are interested in, and can additionally use the reporting
 				feature to fill in the map if they feel it is incomplete. </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -58,9 +55,6 @@ nav-menu: true
 				through a combination of (1) preferences, (2) decay over time, and (3) decay over distance. Of 
 				the three walking routes provided, one will be optimized for time, one for distance, and one 
 				with a combination of the two. </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -78,9 +72,6 @@ nav-menu: true
 				additionally access turn-by-turn directions of the walking route. Included in this screen is a 
 				plotting of crimes nearby the route that have happened over the past three days. In these areas, users 
 				can pay extra attention to their safety. </p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -98,9 +89,6 @@ nav-menu: true
 		is for users to customize the crimes they care about. Users can choose to toggle on or off the rendering of 
 		any crime category, and can additional choose how "old" the crimes they are viewing are. By default, crime age 
 		is 15 days. However, users can set this age to be between 1 and 90 days if they choose. </p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Learn More</a></li>
-		</ul>
 	</div>
 </section>
 
