@@ -1,5 +1,5 @@
 ---
-title: Writings
+title: Writings and Diagrams
 layout: landing
 description: 'All of our writing assignments for the semester.'
 image: assets/images/pic07.jpg
@@ -91,12 +91,15 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>TBD</h2>
+			<h2>Software Architecture</h2>
 		</header>
-		<p>More writings to come!</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		<p>This diagram gives an overview of our software architecture. Our fronetend was developed on XCode to be rendered
+		in Swift. Our Backend is hosted on AWS, and contains multiple API endpoints to communicate with our frontend. Additonal 
+		processing is done on the backend to (1) access new crimes, (2) calculate walking routes between destinations, and (3) 
+		manage user-reported crimes. </p>
+				<ul class="actions">
+					<li><a href="https://drive.google.com/file/d/1CWjL1YWmHMvE0v3N9Kcy6HJck_w6RjyJ/view?usp=sharing" class="button">View Software Architecture</a></li>
+				</ul>
 	</div>
 </section>
 

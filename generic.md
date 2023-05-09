@@ -1,15 +1,11 @@
 ---
 layout: post
-title: Crime Data
+title: Promotional Videos
 description: Learn more about our underlying data sources
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-First, we will use crime data published by MPD.
+Click this link to view a short promotional video about SafeStride!
 
-Next, we will use data that we scrape from local news sources.
-
-Third, we allow users to report their own crimes.
-
-Finally, we will commit crimes.
+Click this link to view a more in-depth explaination of our platform. 
