@@ -7,3 +7,6 @@ image: null
 author: null
 show_tile: false
 ---
+
+
+Here is text i'm adding for the index

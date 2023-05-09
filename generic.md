@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Promotional Videos
-description: Learn more about our underlying data sources
-image: assets/images/pic11.jpg
+description: Learn more about our platform
+image: assets/images/objectives.jpg
 nav-menu: true
 ---
 
