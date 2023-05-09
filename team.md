@@ -72,7 +72,7 @@ nav-menu: true
 				</header>
 				<p>Benjamin is a graduating senior at GW, majoring in Computer Science. He worked primarily on the backend 
                 infrastructure for this project, and was responsible for our early infrastructure with Azure. Following 
-                graduation, he will be working for Northrop Grumman while pursuing his masters in Computer Science. </p>
+                graduation, he will be working for Northrop Grumman while pursuing his masters in Computer Science.</p>
 				<ul class="actions">
 					<li><a href="https://www.linkedin.com/in/marascoben/" class="button">Connect on Linkedin!</a></li>
 				</ul>
