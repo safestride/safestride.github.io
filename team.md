@@ -2,7 +2,7 @@
 layout: post
 title: Meet the Team
 description: Learn more about the people who make safe stride work!
-image: assets/images/objectives.png
+# image: assets/images/objectives.png
 nav-menu: true
 ---
 
@@ -80,8 +80,3 @@ nav-menu: true
 		</div>
 	</section>
 </section>
-
-Sam
-Ben
-Lauren
-Alex
