@@ -6,6 +6,6 @@ description: Learn more about our platform
 nav-menu: true
 ---
 
-Click this link to view a short promotional video about SafeStride!
+<a href="https://www.youtube.com/watch?v=Fgw4nNB9-aI">Click this link to view a short promotional video about SafeStride!</a>
 
-Click this link to view a more in-depth explaination of our platform. 
+<a href="https://www.youtube.com/watch?v=yIWK_V_1EDM">Click this link to view a more in-depth explaination of our platform.</a>
